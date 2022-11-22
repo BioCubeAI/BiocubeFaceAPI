@@ -19,7 +19,7 @@ maven { url 'https://jitpack.io' }
 ```
 
    ```bash
-   Dependencies{
+Dependencies{
 
 //User for camera access
 def cameraxVersion = "1.3.0-alpha01"
