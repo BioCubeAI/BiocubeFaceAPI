@@ -53,6 +53,6 @@ For support, email connect@biocube.ai or join our Slack channel.
 
 
 ## Private Policy
-THIS DOCUMENT AND THE INFORMATION IN IT ARE PROVIDED IN CONFIDENCE, FOR THE SOLE PURPOSE OF EXPLORING BUSINESS OPPORTUNITIES BETWEEN BIOCUBE TECHNOLOGIES INC. AND THE RECEIVING PARTY CONCERNING IMPLEMENTATION OF BIOCUBE SOLUTIONS AND MAY NOT BE DISCLOSED TO ANY THIRD PARTY OR USED FOR ANY OTHER PURPOSE WITHOUT THE EXPRESS WRITTEN PERMISSION OF BIOCUBE TECHNOLOGIES INC.
+This document and the information it contains are provided on a confidential basis with the sole purpose of facilitating business discussions between BioCube Technologies Inc. and the receiving party regarding the implementation of BioCube Solutions. It may not be shared with any other parties or used for any other reason.
 
 
