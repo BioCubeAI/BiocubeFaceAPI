@@ -13,7 +13,7 @@ You can download a aar from GitHub's releases page.
 Or use Gradle:
 
 ```bash
- repositories {
+repositories {
  	...
 maven { url 'https://jitpack.io' }
 }
