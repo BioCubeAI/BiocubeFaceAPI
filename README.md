@@ -31,7 +31,7 @@ implementation 'com.google.mlkit:face-detection:16.1.5'
 
 	//User for BioCube FaceAPI SDK
 implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
-implementation 'com.github.BioCubeAI:BiocubeFaceAPI:1.0'
+implementation 'com.github.biocube-ai:face-api:1.2'
 
 }
 
