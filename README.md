@@ -8,7 +8,7 @@ BiocubeFaceAPISDK offers Face Detection APIs for Mobile applications and extensi
 
 # Installation
 
-You can download a jar from GitHub's releases page.
+You can download a aar from GitHub's releases page.
 
 Or use Gradle:
 
